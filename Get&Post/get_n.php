@@ -4,7 +4,6 @@
 <?php
 echo "The factorial of ", $_GET["n"];
 ?>
-test
 </body>
 </html>
 
